@@ -51,4 +51,6 @@ yarn start-server
 | **`/440/*`** | No one can _write_ the resource. <br> User must be logged to _read_ the resource.                    |
 | **`/400/*`** | No one can _write_ the resource. <br> User must own the resource to _read_ the resource.             |
 
+## Read More
+
 [Json Server Auth Documentation](https://github.com/jeremyben/json-server-auth/blob/master/README.MD)
