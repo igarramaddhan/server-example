@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Test Post 4",
+      "author": "Admin 123",
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$mMVs/cqMSmUCoNEmve17PuzQEtufEn3js1HA1Id9U0t7H2lOmzYlC",
+      "name": "Admin 123",
+      "id": 1
+    }
+  ]
+}
+

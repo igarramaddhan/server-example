@@ -1,0 +1,14 @@
+{
+  "name": "server-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start-server": "json-server-auth db.json --port 5000 -r routes.json"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
